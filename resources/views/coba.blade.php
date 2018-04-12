@@ -6,7 +6,7 @@ echo $nama;
 //Syntax Echo di laravel
 {{$nama = "Santren Koding",$nama}}
 <br>
-//menyambungkan string {{"Kelas "." Belajar"}}
+//menyambungkan string sssssssssssss{{"Kelas "." Belajar"}}
 <br>
 
 
